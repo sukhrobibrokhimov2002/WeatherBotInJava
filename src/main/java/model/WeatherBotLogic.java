@@ -18,8 +18,8 @@ import java.util.List;
 
 public class WeatherBotLogic extends TelegramLongPollingBot {
     int level = 0;
-    public static final String BOTTOKEN = "1315602755:AAHMoGaNBwKqYyoIOYCngEDWmkSPPask6N8";
-    public static final String BOTUSERNAME = "PogodachaBot";
+    public static final String BOTTOKEN = "1871601506:AAHCvOWpvRAoUj-CZnWapTziYtMIWL4PBxg";
+    public static final String BOTUSERNAME = "weatherUzbekistan_bot";
     public static String text;
 
     public String getBotUsername() {
